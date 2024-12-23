@@ -1,0 +1,13 @@
+.one {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.two {
+    background-color: #ffdd01;
+}
+
+.shared {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
